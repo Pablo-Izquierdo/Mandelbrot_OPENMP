@@ -1,0 +1,183 @@
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,760298  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,409641  SpeedUp = 2,913372
+    Duracion Paralelo Runtime = 5,266467  SpeedUp = 2,992575
+    Duracion Paralelo Variables Privadas = 5,369588  SpeedUp = 2,935104
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009209
+    Funciones runtime = 0,009474
+    Secuencial = 0,038109
+    Con Variables privadas = 0,009455
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,703241  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,463447  SpeedUp = 2,874237
+    Duracion Paralelo Runtime = 5,388093  SpeedUp = 2,914434
+    Duracion Paralelo Variables Privadas = 5,392822  SpeedUp = 2,911878
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009240
+    Funciones runtime = 0,009145
+    Secuencial = 0,037747
+    Con Variables privadas = 0,010266
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,702591  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,347103  SpeedUp = 2,936654
+    Duracion Paralelo Runtime = 5,338241  SpeedUp = 2,941529
+    Duracion Paralelo Variables Privadas = 5,262922  SpeedUp = 2,983626
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009203
+    Funciones runtime = 0,009205
+    Secuencial = 0,037888
+    Con Variables privadas = 0,009456
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,708959  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,268841  SpeedUp = 2,981483
+    Duracion Paralelo Runtime = 5,383078  SpeedUp = 2,918211
+    Duracion Paralelo Variables Privadas = 5,316105  SpeedUp = 2,954975
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009226
+    Funciones runtime = 0,009225
+    Secuencial = 0,037613
+    Con Variables privadas = 0,009424
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,688277  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,375369  SpeedUp = 2,918549
+    Duracion Paralelo Runtime = 5,303206  SpeedUp = 2,958263
+    Duracion Paralelo Variables Privadas = 5,368194  SpeedUp = 2,922450
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009240
+    Funciones runtime = 0,009251
+    Secuencial = 0,037804
+    Con Variables privadas = 0,009464
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,706902  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,353543  SpeedUp = 2,933927
+    Duracion Paralelo Runtime = 5,289318  SpeedUp = 2,969551
+    Duracion Paralelo Variables Privadas = 5,385992  SpeedUp = 2,916251
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009282
+    Funciones runtime = 0,009258
+    Secuencial = 0,037787
+    Con Variables privadas = 0,009430
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,686984  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,423308  SpeedUp = 2,892512
+    Duracion Paralelo Runtime = 5,360006  SpeedUp = 2,926673
+    Duracion Paralelo Variables Privadas = 5,410555  SpeedUp = 2,899330
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009209
+    Funciones runtime = 0,009308
+    Secuencial = 0,037877
+    Con Variables privadas = 0,009436
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,742270  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,334327  SpeedUp = 2,951126
+    Duracion Paralelo Runtime = 5,290656  SpeedUp = 2,975485
+    Duracion Paralelo Variables Privadas = 5,337014  SpeedUp = 2,949640
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009230
+    Funciones runtime = 0,009250
+    Secuencial = 0,038001
+    Con Variables privadas = 0,009416
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,686499  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,413577  SpeedUp = 2,897622
+    Duracion Paralelo Runtime = 5,338662  SpeedUp = 2,938283
+    Duracion Paralelo Variables Privadas = 5,409526  SpeedUp = 2,899792
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009242
+    Funciones runtime = 0,009185
+    Secuencial = 0,037653
+    Con Variables privadas = 0,009505
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,752221  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,300511  SpeedUp = 2,971831
+    Duracion Paralelo Runtime = 5,397076  SpeedUp = 2,918658
+    Duracion Paralelo Variables Privadas = 5,436497  SpeedUp = 2,897495
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009208
+    Funciones runtime = 0,009175
+    Secuencial = 0,037714
+    Con Variables privadas = 0,009466
+
+
+
+---------Resumen Resultados--------
+
+MANDELBROT
+  Normal end of execution,
+   Tiempos y Speedups 
+    Duracion Secuencial = 15,704958  SpeedUp = 1,000000
+    Duracion Paralelo OMP = 5,424376  SpeedUp = 2,895256
+    Duracion Paralelo Runtime = 5,308542  SpeedUp = 2,958432
+    Duracion Paralelo Variables Privadas = 5,476852  SpeedUp = 2,867516
+   Time to determine the coloring of each pixel,
+    Directivas Omp = 0,009239
+    Funciones runtime = 0,009262
+    Secuencial = 0,037812
+    Con Variables privadas = 0,009399
+
